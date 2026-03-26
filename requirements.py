@@ -1,9 +1,0 @@
-flask==3.0.3
-aiohttp==3.10.5
-requests==2.32.3
-pycryptodome==3.20.0
-cachetools==5.5.0
-python-dotenv==1.0.1
-protobuf==6.30.0
-httpx==0.27.2
-pydantic==2.9.2
